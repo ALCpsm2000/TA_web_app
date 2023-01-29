@@ -1,6 +1,5 @@
-yfinance
-streamlit
-datetime 
-pandas
-cufflinks
-plotly.offline
+yfinance==0.1.74
+streamlit==1.6.0
+pandas==1.4.0
+cufflinks==0.17.3
+plotly==5.10.0
